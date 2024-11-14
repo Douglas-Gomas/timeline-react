@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  width: 100%;
+}
+
+.app-title {
+  text-transform: uppercase !important;
+}
+
+.app .scheduler-container {
+  width: 50%;
+}
